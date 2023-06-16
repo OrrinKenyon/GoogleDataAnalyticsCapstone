@@ -1,2 +1,2 @@
-# FitBit_GoogleCapstone
-Google Data Analytics Capstone on FitBit Dataset
+# GoogleDataAnalyticsCapston
+Google Data Analytics Capstone on Bikeshare Dataset
